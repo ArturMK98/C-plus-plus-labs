@@ -97,5 +97,3 @@ void sortArray(int array[], int n) {
         }
     }
 }
-
-// Expected score 6/6
