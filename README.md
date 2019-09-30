@@ -22,7 +22,7 @@ Below is a list of all labs and exercises along with a short description:
   
   - [exercise_2_3](https://github.com/ArturMK98/C-plus-plus-labs/blob/master/EE208%20Lab%202/exercise_2_3.cpp): Extension to [exercise_2_2](https://github.com/ArturMK98/C-plus-plus-labs/blob/master/EE208%20Lab%202/exercise_2_2.cpp) that overloads the swap function with two more  swap functions, which swap two float variables and two characters, respectively.
   
-  - [exercise_2_4](https://github.com/ArturMK98/C-plus-plus-labs/blob/master/EE208%20Lab%202/exercise_2_4.cpp): Extension to [exercise_2_3](https://github.com/ArturMK98/C-plus-plus-labs/blob/master/EE208%20Lab%202/exercise_2_3.cpp) that includes a default parameter in each of the three functions and prints to screen giving details of which of the three swap functions was called.
+  - [exercise_2_4](https://github.com/ArturMK98/C-plus-plus-labs/blob/master/EE208%20Lab%202/exercise_2_4.cpp): Extension to [exercise_2_3](https://github.com/ArturMK98/C-plus-plus-labs/blob/master/EE208%20Lab%202/exercise_2_3.cpp) that includes a default parameter in each of the three functions and prints to the screen giving details of which of the three swap functions was called.
   
   - [exercise_2_5](https://github.com/ArturMK98/C-plus-plus-labs/blob/master/EE208%20Lab%202/exercise_2_5.cpp):A program that allows the user to input a sequence of 5 doubles and then prints that sequence in reverse.
   
