@@ -1,5 +1,5 @@
 # C-plus-plus-labs
-This repository contains some of my C++ labs from EE208 (Object Oriented Programming) in second semester of my second year in college. All the exercises were completed by me and sometimes with the help of the demonstrators in the labs. I also used stackoverflow.com to help me with some exercises.
+This repository contains some of my C++ labs from EE208 (Object Oriented Programming) in second semester of my second year in college. All the exercises were completed by me and sometimes with the help of the demonstrators in the labs. I also used [stackoverflow.com](https://stackoverflow.com/) to help me with some exercises.
 
 Below is the list of all labs and exercises along with a short description:
 
