@@ -85,5 +85,3 @@ void print_array_reverse(double dubs[]) {
 
     cout << dubs[0] << " }" << endl;
 }
-
-// Expected score 5/5
