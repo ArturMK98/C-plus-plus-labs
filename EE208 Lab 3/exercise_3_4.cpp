@@ -112,5 +112,3 @@ double *concatonate(double array1[], double array2[], int n1, int n2) {
 
     return conc_array;
 }
-
-// Expected score 4/4
