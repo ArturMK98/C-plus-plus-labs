@@ -145,5 +145,3 @@ void getProduct(double array1[], double array2[], double product[], int rows1, i
         }
     }
 }
-
-// Expected score 8/8
