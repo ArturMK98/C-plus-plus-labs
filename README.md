@@ -1,5 +1,5 @@
 # C++ Labs
-This repository contains some of my C++ labs from EE208 (Object Oriented Programming) in second semester of my second year in college. All the exercises were completed by me and sometimes with the help of the demonstrators in the labs. I also used [stackoverflow.com](https://stackoverflow.com/) to help me with some exercises.
+This repository contains some of my C++ labs from EE208 (Object Oriented Programming) in second semester of my second year in college. All the exercises were completed by me and sometimes with the help of the demonstrators in the labs. I also used [stackoverflow](https://stackoverflow.com/) to help me with some exercises.
 
 Below is a list of all labs and exercises along with a short description:
 
@@ -28,7 +28,9 @@ Below is a list of all labs and exercises along with a short description:
   
   - [exercise_2_6](https://github.com/ArturMK98/C-plus-plus-labs/blob/master/EE208%20Lab%202/exercise_2_6.cpp): A program that prints out the first N integers in the Fibnacci sequence in reverse, where N is entered by the user at run-time.
   
+  # Lab 3
   
+  - [exercise_3_1](https://github.com/ArturMK98/C-plus-plus-labs/blob/master/EE208%20Lab%203/exercise_3_1.cpp): A program that creates an array of integers of size 10 and outputs the largest element and its index in that array. 
   
   
   
