@@ -4,7 +4,7 @@ This repository contains some of my C++ labs from EE208 (Object Oriented Program
 Below is a list of all labs and exercises along with a short description:
 
 # Lab 1
-  - [exercise_1_1](https://github.com/ArturMK98/C-plus-plus-labs/blob/master/EE208%20Lab%201/exercise_1_1.cpp): A program that accepts the input of threeintegers from the keyboard, and  prints the sum, average, product, smallest, and largest of these numbers.
+  - [exercise_1_1](https://github.com/ArturMK98/C-plus-plus-labs/blob/master/EE208%20Lab%201/exercise_1_1.cpp): A program that accepts the input of three integers from the keyboard, and  prints the sum, average, product, smallest, and largest of these numbers.
   
   - [exercise_1_2](https://github.com/ArturMK98/C-plus-plus-labs/blob/master/EE208%20Lab%201/exercise_1_2.cpp): A program that reads in two integers and determines and prints whether the first is a multiple of the second.
   
