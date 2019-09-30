@@ -96,5 +96,3 @@ void printResults(int largest_num, int index) {
 
     cout << "The largest number in the array is " << largest_num << " at index " << index << endl;
 }
-
-// Expected score 4/4
