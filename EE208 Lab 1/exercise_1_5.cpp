@@ -50,5 +50,3 @@ int main(){
 
   return 0;
 }
-
-// Expected score 5/5
