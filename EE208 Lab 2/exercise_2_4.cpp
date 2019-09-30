@@ -122,5 +122,3 @@ void swap(char* xc, char* yc, bool verbose) {
     *xc = *yc;
     *yc = temp;
 }
-
-// Expected score 3/3
