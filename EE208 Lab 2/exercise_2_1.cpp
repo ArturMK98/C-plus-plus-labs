@@ -80,5 +80,3 @@ void roll_dice(int nums[], int num_of_rolls){
         nums[(rand() % NUM_OF_SIDES) + (rand() % NUM_OF_SIDES)]++;
     }
 }
-
-// Expected score 8/8
