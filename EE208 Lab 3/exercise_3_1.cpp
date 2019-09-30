@@ -43,5 +43,3 @@ int main() {
     
     return 0;
 }
-
-// Expected score 4/4
