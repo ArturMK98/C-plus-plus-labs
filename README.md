@@ -18,4 +18,4 @@ Below is the list of all labs and exercises along with a short description:
   
   - exercise_2_1: A program that simulates the rolling of two dice and prints out the percentage of times each pair of values occurs, in a tabulated format.
   
-  - exercise_2_2: 
+  - exercise_2_2: [I'm an inline-style link](https://www.google.com)
