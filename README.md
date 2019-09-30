@@ -26,7 +26,7 @@ Below is a list of all labs and exercises along with a short description:
   
   - [exercise_2_5](https://github.com/ArturMK98/C-plus-plus-labs/blob/master/EE208%20Lab%202/exercise_2_5.cpp):A program that allows the user to input a sequence of 5 doubles and then prints that sequence in reverse.
   
-  - [exercise_2_6](https://github.com/ArturMK98/C-plus-plus-labs/blob/master/EE208%20Lab%202/exercise_2_6.cpp): A program that prints out the first N integers in the Fibnacci sequence inreverse, where N is entered by the user at run-time.
+  - [exercise_2_6](https://github.com/ArturMK98/C-plus-plus-labs/blob/master/EE208%20Lab%202/exercise_2_6.cpp): A program that prints out the first N integers in the Fibnacci sequence in reverse, where N is entered by the user at run-time.
   
   
   
