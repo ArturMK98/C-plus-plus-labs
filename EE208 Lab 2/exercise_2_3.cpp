@@ -106,5 +106,3 @@ void swap(char* xc, char* yc) {
     *xc = *yc;
     *yc = temp;
 }
-
-// Expected score 3/3
