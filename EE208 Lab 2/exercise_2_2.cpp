@@ -55,5 +55,3 @@ void swap(int* x, int* y) {
     *x = *y;
     *y = temp;
 }
-
-// Expected score 3/3
