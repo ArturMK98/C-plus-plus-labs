@@ -89,5 +89,3 @@ void print_fibs_reverse(int fibs[], int n) {
 
     cout << fibs[0] << " }" << endl;
 }
-
-// Expected score 6/6
