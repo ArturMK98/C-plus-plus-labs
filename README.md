@@ -1,7 +1,7 @@
 # C++ Labs
 This repository contains some of my C++ labs from [EE208](https://maynoothuniversity-my.sharepoint.com/:w:/r/personal/ann_dempsey_mu_ie/_layouts/15/WopiFrame.aspx?guestaccesstoken=Rk%2fRpqvCJ%2fqEIlLJMLwxRTfz9Cfc6pDhwAJeBbd5oRI%3d&docid=07459b3e7dce042b581fb4be04b392ab3&action=default&originalPath=aHR0cHM6Ly9tYXlub290aHVuaXZlcnNpdHktbXkuc2hhcmVwb2ludC5jb20vOnc6L2cvcGVyc29uYWwvYW5uX2RlbXBzZXlfbXVfaWUvRWVleldYVGczTFZDZ2Z0TDRFczVLck1Cd1JuQjdNdlpSb1d1LUZHRFNRWkVodz9ydGltZT13SHFvUVBKRjEwZw) (Object Oriented Programming) in second semester of my second year in college. All the exercises were completed by me and sometimes with the help of the demonstrators in the labs. I also used [stackoverflow.com](https://stackoverflow.com/) as well as [cplusplus.com](http://www.cplusplus.com/doc/tutorial/) to help me with some exercises.
 
-Below is a list of all labs and exercises along with a short description:
+Below is a list of all labs and exercises in this repository along with a short description of each exercise:
 
 # Lab 1
   - [exercise_1_1](https://github.com/ArturMK98/C-plus-plus-labs/blob/master/EE208%20Lab%201/exercise_1_1.cpp): A program that accepts the input of three integers from the keyboard, and  prints the sum, average, product, smallest, and largest of these numbers.
