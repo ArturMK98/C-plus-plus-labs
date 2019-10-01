@@ -40,7 +40,7 @@ Below is a list of all labs and exercises in this repository along with a short 
   
   - [exercise_3_5](https://github.com/ArturMK98/C-plus-plus-labs/blob/master/EE208%20Lab%203/exercise_3_5.cpp):  A program that asks the user to enter an integer, N, to create an array of integers of size N which is filled with random numbers between 1 and 1000 and sorts them in increasing order.
   
-  - [exercise_3_6](https://github.com/ArturMK98/C-plus-plus-labs/blob/master/EE208%20Lab%203/exercise_3_6.cpp): A program that lets the user create two 2D arrays (which represent two 2D matrices), fil them with integers and print the product matrix.
+  - [exercise_3_6](https://github.com/ArturMK98/C-plus-plus-labs/blob/master/EE208%20Lab%203/exercise_3_6.cpp): A program that lets the user create two 2D arrays (which represent two 2D matrices), fill them with integers and print the product matrix.
   
   # Lab 4
   
