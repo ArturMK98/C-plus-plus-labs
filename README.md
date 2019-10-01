@@ -48,7 +48,9 @@ Below is a list of all labs and exercises in this repository along with a short 
   
   - [exercise_4_2](https://github.com/ArturMK98/C-plus-plus-labs/tree/master/EE208%20Lab%204/exercise_4_2): A program that reads in the full names and ages of a list of people, and prints them out in reverse using structs.
   
-  - [exercise_4_3](https://github.com/ArturMK98/C-plus-plus-labs/tree/master/EE208%20Lab%204/exercise_4_3): 
+  - [exercise_4_3](https://github.com/ArturMK98/C-plus-plus-labs/tree/master/EE208%20Lab%204/exercise_4_3): A program that reads in names from a text file, stores them in an array and assigns a random grade between 0%-100% to each name and then prints them all out into a results.txt file.
+  
+  - [exercise_4_4](https://github.com/ArturMK98/C-plus-plus-labs/tree/master/EE208%20Lab%204/exercise_4_4): A program that stores an aribtrary number of students and their student numbers and then prints them out to the screen.
   
   
   
