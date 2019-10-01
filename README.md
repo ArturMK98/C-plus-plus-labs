@@ -52,7 +52,9 @@ Below is a list of all labs and exercises in this repository along with a short 
   
   - [exercise_4_4](https://github.com/ArturMK98/C-plus-plus-labs/tree/master/EE208%20Lab%204/exercise_4_4): A program that stores an aribtrary number of students and their student numbers and then prints them out to the screen.
   
+  # Lab 5
   
+  - [exercise_5_1](https://github.com/ArturMK98/C-plus-plus-labs/blob/master/EE208%20Lab%205/exercise_5_1.cpp): 
   
   
   
