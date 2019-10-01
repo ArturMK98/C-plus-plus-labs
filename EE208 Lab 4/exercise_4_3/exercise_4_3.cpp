@@ -52,5 +52,3 @@ int main() {
 	delete[] S;
 	return 0;
 }
-
-// Expected score 10/10
