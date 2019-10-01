@@ -75,5 +75,3 @@ int main() {
 	delete List;
 	return 0;
 }
-
-// Expected score 10/10
