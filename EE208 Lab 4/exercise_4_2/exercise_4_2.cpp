@@ -85,5 +85,3 @@ void printListReversed(Person P[], int n) {
 		printPerson(P[i]);
 	}
 }
-
-// Expected score 5/5
