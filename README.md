@@ -32,5 +32,22 @@ Below is a list of all labs and exercises in this repository along with a short 
   
   - [exercise_3_1](https://github.com/ArturMK98/C-plus-plus-labs/blob/master/EE208%20Lab%203/exercise_3_1.cpp): A program that creates an array of integers of size 10 and outputs the largest element and its index in that array. 
   
+  - [exercise_3_2](https://github.com/ArturMK98/C-plus-plus-labs/blob/master/EE208%20Lab%203/exercise_3_2.cpp): Same as [exercise_3_1](https://github.com/ArturMK98/C-plus-plus-labs/blob/master/EE208%20Lab%203/exercise_3_1.cpp) but has a function to find the maximum value.
+  
+  - [exercise_3_3](https://github.com/ArturMK98/C-plus-plus-labs/blob/master/EE208%20Lab%203/exercise_3_3.cpp): Same as [exercise_3_2](https://github.com/ArturMK98/C-plus-plus-labs/blob/master/EE208%20Lab%203/exercise_3_2.cpp) but allows the user to input the length of the array, N, and all the elements in the array.
+  
+  - [exercise_3_4](https://github.com/ArturMK98/C-plus-plus-labs/blob/master/EE208%20Lab%203/exercise_3_4.cpp): A program that concatenates two arrays of doubles by passing the two arrays into a function.
+  
+  - [exercise_3_5](https://github.com/ArturMK98/C-plus-plus-labs/blob/master/EE208%20Lab%203/exercise_3_5.cpp):  A program that asks the user to enter an integer, N, to create an array of integers of size N which is filled with random numbers between 1 and 1000 and sorts them in increasing order.
+  
+  - [exercise_3_6](https://github.com/ArturMK98/C-plus-plus-labs/blob/master/EE208%20Lab%203/exercise_3_6.cpp): A program that lets the user create two 2D arrays (which represent two 2D matrices), fil them with integers and print the product matrix.
+  
+  # Lab 4
+  
+  
+  
+  
+  
+  
   
   
