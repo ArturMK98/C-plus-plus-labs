@@ -44,7 +44,11 @@ Below is a list of all labs and exercises in this repository along with a short 
   
   # Lab 4
   
+  - [exercise_4_1](https://github.com/ArturMK98/C-plus-plus-labs/tree/master/EE208%20Lab%204/exercise_4_1): A program that returns the modulus of a complex number, complex conjugate of a complex number, sum of two complex numbers and the product of two complex numbers using simple structs.
   
+  - [exercise_4_2](https://github.com/ArturMK98/C-plus-plus-labs/tree/master/EE208%20Lab%204/exercise_4_2): A program that reads in the full names and ages of a list of people, and prints them out in reverse using structs.
+  
+  - [exercise_4_3](https://github.com/ArturMK98/C-plus-plus-labs/tree/master/EE208%20Lab%204/exercise_4_3): 
   
   
   
