@@ -160,5 +160,3 @@ void Complex::print(void) {
 		cout << real << imag << "i, ";
 	}
 }
-
-// Expected score 10/10
