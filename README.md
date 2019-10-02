@@ -62,6 +62,8 @@ Below is a list of all labs and exercises in this repository along with a short 
   
   - [exercise_5_4](https://github.com/ArturMK98/C-plus-plus-labs/blob/master/EE208%20Lab%205/exercise_5_4.cpp): A program that uses a default constructor to create a 1D matrix of length N, set the values equal to 0, assigns each index a random value and converts each element into its conjugate. 
   
+  # Lab 6
   
+  - [exercise_6_1](https://github.com/ArturMK98/C-plus-plus-labs/tree/master/EE208%20Lab%206): A program that overloads the "+" operator so that teh user can concatenate two arrays, also allows the user to push elements to the end of the concatenated array.
   
   
