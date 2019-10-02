@@ -54,7 +54,13 @@ Below is a list of all labs and exercises in this repository along with a short 
   
   # Lab 5
   
-  - [exercise_5_1](https://github.com/ArturMK98/C-plus-plus-labs/blob/master/EE208%20Lab%205/exercise_5_1.cpp): 
+  - [exercise_5_1](https://github.com/ArturMK98/C-plus-plus-labs/blob/master/EE208%20Lab%205/exercise_5_1.cpp): A program that gets the modulus, angle and changes the complex number to be equal to its own conjugate using classes.
+  
+  - [exercise_5_2](https://github.com/ArturMK98/C-plus-plus-labs/blob/master/EE208%20Lab%205/exercise_5_2.cpp): Same as [exercise_5_1](https://github.com/ArturMK98/C-plus-plus-labs/blob/master/EE208%20Lab%205/exercise_5_1.cpp) but makes use of private data members as well as a default constructor and also implements a for setting real and imaginary values and printing the complex number to the screen.
+  
+  - [exercise_5_3](https://github.com/ArturMK98/C-plus-plus-labs/blob/master/EE208%20Lab%205/exercise_5_3.cpp): An extension to [exercise_5_2](https://github.com/ArturMK98/C-plus-plus-labs/blob/master/EE208%20Lab%205/exercise_5_2.cpp) taht overloads the plus and multiplication operators.
+  
+  - [exercise_5_4](https://github.com/ArturMK98/C-plus-plus-labs/blob/master/EE208%20Lab%205/exercise_5_4.cpp): A program that uses a default constructor to create a 1D matrix of length N, set the values equal to 0, assigns each index a random value and converts each element into its conjugate. 
   
   
   
