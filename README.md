@@ -64,6 +64,6 @@ Below is a list of all labs and exercises in this repository along with a short 
   
   # Lab 6
   
-  - [exercise_6_1](https://github.com/ArturMK98/C-plus-plus-labs/tree/master/EE208%20Lab%206): A program that overloads the "+" operator so that teh user can concatenate two arrays, also allows the user to push elements to the end of the concatenated array.
+  - [exercise_6_1](https://github.com/ArturMK98/C-plus-plus-labs/tree/master/EE208%20Lab%206): A program that overloads the "+" operator so that the user can concatenate two arrays, also allows the user to push elements to the end of the concatenated array.
   
   
