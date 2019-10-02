@@ -4,7 +4,7 @@
  *	Lab 11: Hewlard Packers Tax Bill
  *
  *  	This program works as follows:
- *  		- 1: The user is prompted to input today's date
+ *  			- 1: The user is prompted to input today's date
  *			- 2: The user is prompted to enter the amount of printers they have sold
  *			- 3: The program will prompt the user to enter the details for all the printers that were sold
  *			- 4: If the user inputs 0, a message saying that the user sold no printers will be printed out
@@ -110,5 +110,3 @@ int main() {
 	delete Today;
 	return 0;
 }
-
-// Expectred score 20/20
