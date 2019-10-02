@@ -66,4 +66,15 @@ Below is a list of all labs and exercises in this repository along with a short 
   
   - [exercise_6_1](https://github.com/ArturMK98/C-plus-plus-labs/tree/master/EE208%20Lab%206): A program that overloads the "+" operator so that the user can concatenate two arrays, also allows the user to push elements to the end of the concatenated array.
   
+  # Lab 7 (Exam)
+  
+  - [exercise_7_1](https://github.com/ArturMK98/C-plus-plus-labs/blob/master/EE208%20Lab%207%20(Exam)/exercise_7_1.cpp): A program that creates an array of N fibonacci numbers, squares each number, adds all the numbers together and prints the sum of squared numbers out to the screen.
+  
+  - [exercise_7_2](https://github.com/ArturMK98/C-plus-plus-labs/blob/master/EE208%20Lab%207%20(Exam)/exercise_7_2.cpp): A program that makes an array of size N, fills it with random numbers from 1-1000, sorts them in ascending order and prints the sorted array out to the screen.
+  
+  - [exercise_7_3](https://github.com/ArturMK98/C-plus-plus-labs/blob/master/EE208%20Lab%207%20(Exam)/exercise_7_3.cpp): A program that creates a Student object with name, number and modules and determines if a student passed if they got more than 40% average score.
+  
+  
+  
+  
   
