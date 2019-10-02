@@ -74,8 +74,8 @@ Below is a list of all labs and exercises in this repository along with a short 
   
   - [exercise_7_3](https://github.com/ArturMK98/C-plus-plus-labs/blob/master/EE208%20Lab%207%20(Exam)/exercise_7_3.cpp): A program that creates a Student object with name, number and modules and determines if a student passed if they got more than 40% average score.
   
-  # Hewlard Packers Lab Question
-  - [HP Lab](https://github.com/ArturMK98/C-plus-plus-labs/tree/master/HP%20Lab): A program that calculates the total bill for printer and repair sales using the info inputted by user.
+  # Tax Bill Lab Question
+  - [Lab files](https://github.com/ArturMK98/C-plus-plus-labs/tree/master/HP%20Lab): A program that calculates the total bill for printer and repair sales using the info inputted by user.
   
   
   
