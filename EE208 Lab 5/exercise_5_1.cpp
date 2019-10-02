@@ -79,5 +79,3 @@ void Complex::conjugate(void){
 
     imag *= -1;
 }
-
-// Expected score 6/6
