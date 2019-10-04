@@ -110,5 +110,3 @@ int main() {
 	delete Today;
 	return 0;
 }
-
-// Expectred score 20/20
